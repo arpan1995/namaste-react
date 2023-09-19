@@ -43,3 +43,13 @@
   padding: 5px;
   cursor: pointer;
 }
+.login{
+  margin: 10px;
+  height: 50px;
+  cursor: pointer;
+  border: 1px solid black;
+  background-color: chartreuse;
+}
+.filter{
+  display: flex;
+}
